@@ -15,7 +15,6 @@ react-native run-android(new window is react packager) will take all of our java
 install npm i --save-dev eslint-config-rallycoding
 
 react and react native
-
 - react: Knows how a component should behave. knows how to take a bunch of components and make them work together
 - react-native: knows how to take the output from a component and place it on the screen, provides default core components(image, text)
 
