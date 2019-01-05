@@ -1,0 +1,50 @@
+2019-01-02T16:00:43.848Z - info:   [0668] *** FOLDER: c:\Users\Admins\Desktop\learning node js\the complete react native ***
+2019-01-02T16:00:43.849Z - info:   [0668] AzureReposVSCode/1.144.1 (VSCode 1.30.1; Windows_NT 10.0.17134; Node 8.9.3)
+2019-01-02T16:00:43.857Z - debug:  [0668] Looking for an External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T16:00:43.857Z - debug:  [0668] No External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T16:00:43.858Z - debug:  [0668] Looking for TFVC repository at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T16:00:43.858Z - debug:  [0668] TFVC Creating Tfvc object with localPath='undefined'
+2019-01-02T16:00:43.859Z - debug:  [0668] Using TFS proxy: 
+2019-01-02T16:00:43.859Z - debug:  [0668] TFVC Retrieved from settings; localPath=''
+2019-01-02T16:00:43.859Z - warn:   [0668] TFVC Couldn't find where the TF command lives on disk.
+2019-01-02T16:00:43.859Z - error:  [0668] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2019-01-02T18:44:31.707Z - info:   [12216] *** FOLDER: c:\Users\Admins\Desktop\learning node js\the complete react native ***
+2019-01-02T18:44:31.708Z - info:   [12216] AzureReposVSCode/1.144.1 (VSCode 1.30.1; Windows_NT 10.0.17134; Node 8.9.3)
+2019-01-02T18:44:31.708Z - debug:  [12216] Looking for an External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T18:44:31.708Z - debug:  [12216] No External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T18:44:31.710Z - debug:  [12216] Looking for TFVC repository at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-02T18:44:31.710Z - debug:  [12216] TFVC Creating Tfvc object with localPath='undefined'
+2019-01-02T18:44:31.711Z - debug:  [12216] Using TFS proxy: 
+2019-01-02T18:44:31.711Z - debug:  [12216] TFVC Retrieved from settings; localPath=''
+2019-01-02T18:44:31.711Z - warn:   [12216] TFVC Couldn't find where the TF command lives on disk.
+2019-01-02T18:44:31.712Z - error:  [12216] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2019-01-03T13:04:34.806Z - info:   [12016] *** FOLDER: c:\Users\Admins\Desktop\learning node js\the complete react native ***
+2019-01-03T13:04:34.806Z - info:   [12016] AzureReposVSCode/1.144.1 (VSCode 1.30.1; Windows_NT 10.0.17134; Node 8.9.3)
+2019-01-03T13:04:34.806Z - debug:  [12016] Looking for an External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-03T13:04:34.806Z - debug:  [12016] No External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-03T13:04:34.807Z - debug:  [12016] Looking for TFVC repository at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-03T13:04:34.807Z - debug:  [12016] TFVC Creating Tfvc object with localPath='undefined'
+2019-01-03T13:04:34.808Z - debug:  [12016] Using TFS proxy: 
+2019-01-03T13:04:34.808Z - debug:  [12016] TFVC Retrieved from settings; localPath=''
+2019-01-03T13:04:34.808Z - warn:   [12016] TFVC Couldn't find where the TF command lives on disk.
+2019-01-03T13:04:34.809Z - error:  [12016] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2019-01-04T15:48:47.935Z - info:   [10396] *** FOLDER: c:\Users\Admins\Desktop\learning node js\the complete react native ***
+2019-01-04T15:48:47.938Z - info:   [10396] AzureReposVSCode/1.144.1 (VSCode 1.30.1; Windows_NT 10.0.17134; Node 8.9.3)
+2019-01-04T15:48:47.941Z - debug:  [10396] Looking for an External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-04T15:48:47.941Z - debug:  [10396] No External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-04T15:48:47.944Z - debug:  [10396] Looking for TFVC repository at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-04T15:48:47.944Z - debug:  [10396] TFVC Creating Tfvc object with localPath='undefined'
+2019-01-04T15:48:47.945Z - debug:  [10396] Using TFS proxy: 
+2019-01-04T15:48:47.945Z - debug:  [10396] TFVC Retrieved from settings; localPath=''
+2019-01-04T15:48:47.945Z - warn:   [10396] TFVC Couldn't find where the TF command lives on disk.
+2019-01-04T15:48:47.947Z - error:  [10396] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2019-01-05T20:02:31.376Z - info:   [07440] *** FOLDER: c:\Users\Admins\Desktop\learning node js\the complete react native ***
+2019-01-05T20:02:31.377Z - info:   [07440] AzureReposVSCode/1.144.1 (VSCode 1.30.1; Windows_NT 10.0.17134; Node 8.9.3)
+2019-01-05T20:02:31.377Z - debug:  [07440] Looking for an External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-05T20:02:31.378Z - debug:  [07440] No External Context at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-05T20:02:31.379Z - debug:  [07440] Looking for TFVC repository at c:\Users\Admins\Desktop\learning node js\the complete react native
+2019-01-05T20:02:31.379Z - debug:  [07440] TFVC Creating Tfvc object with localPath='undefined'
+2019-01-05T20:02:31.380Z - debug:  [07440] Using TFS proxy: 
+2019-01-05T20:02:31.380Z - debug:  [07440] TFVC Retrieved from settings; localPath=''
+2019-01-05T20:02:31.380Z - warn:   [07440] TFVC Couldn't find where the TF command lives on disk.
+2019-01-05T20:02:31.394Z - error:  [07440] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
